@@ -47,5 +47,20 @@ namespace WPF_PriceCompare
         {
 
         }
+
+        private void PUButton_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void PUButton_Click_1(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Btn_close_Click(object sender, RoutedEventArgs e)
+        {
+            wd_main.Close();
+        }
     }
 }
